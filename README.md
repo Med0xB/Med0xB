@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A tech enthusiast driven by curiosity to understand and improve systems. Built a solid foundation in designing, managing, and securing network infrastructures, with a focus on cybersecurity and hands-on experience in threat protection. Skilled in data science and analysis, using data to support smarter technical decisions. Combines knowledge across IT, networking, cybersecurity, and data science to deliver secure and integrated technology solutions.</p>
+<p align="left">I am a tech enthusiast driven by a curiosity to explore and improve systems. I have built a strong foundation in designing, managing, and securing network infrastructure, with a special interest in cybersecurity and practical experience in threat detection and protection. I also enjoy using analytics to make better technical decisions. By combining skills in IT, networking, cybersecurity, and data science, I aim to create secure and efficient technology solutions. I am excited to develop my knowledge further and contribute to the university community.</p>
 
 ###
 
