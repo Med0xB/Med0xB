@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I am a tech enthusiast driven by a curiosity to explore and improve systems. I have built a strong foundation in designing, managing, and securing network infrastructure, with a special interest in cybersecurity and practical experience in threat detection and protection. I also enjoy using analytics to make better technical decisions. By combining skills in IT, networking, cybersecurity, and data science, I aim to create secure and efficient technology solutions. I am excited to develop my knowledge further and contribute to the university community.</p>
+<p align="left">I enjoy learning how systems work, practicing in labs, and improving my skills in troubleshooting and network design. I am also exploring data analytics to better understand and solve technical problems.
+My goal is to continue developing my skills and gain hands-on experience while contributing to real-world projects..</p>
 
 ###
 
